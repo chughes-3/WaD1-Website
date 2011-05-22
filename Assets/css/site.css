@@ -1,0 +1,138 @@
+/* CSS definition file containing site wide stylesheets */
+
+.NormalTxt,
+.Normaltxt,
+.Largetxt,
+.Normaltxtbld,
+.Normaltxtcen,
+.Normaltxtcenbld,
+.Normaltxtcenbldcol,
+.Normaltxtbldcol,
+.psmall,
+.pxsmall,
+td,
+.Subheadcen    {
+     font-size: small;
+     color: rgb(0,51,102);
+    font-family: Verdana, Tahoma, Helvetica, Arial, Sans-serif;
+}
+.Normaltxtcen,
+.Normaltxtcenbld,
+.Normaltxtcenbldcol {
+    text-align: center;
+    }
+
+.Normaltxtbld,
+.Normaltxtcenbld,
+.Normaltxtbldcol,
+.Normaltxtcenbldcol {
+    font-weight: bold;
+    }
+.Normaltxtcenbldcol,
+.Normaltxtbldcol    {
+  color: rgb(153,51,51);
+  }
+.Largetxt {
+  font-size: medium;
+  }
+
+p {
+    font-family: Verdana, Tahoma, Helvetica, Arial, Sans-serif;
+    font-size: small;
+    text-align: justify;
+     color: rgb(0,51,102)
+}
+p.cen {
+  text-align: center;
+  }
+p.indent {
+  margin-left: 40px;
+  }
+.psmall    {
+    font-size: x-small;
+    text-align: justify;
+}
+.pxsmall  {
+  font-size: xx-small;
+  text-align: center;
+  }
+p.highlight
+{
+background-color:yellow
+}
+h2,h3    {
+    font-family: Verdana, Tahoma, Helvetica, Arial, Sans-serif;
+    font-size: medium;
+    text-align: center;
+    color: rgb(0,51,102)
+}
+h3  {
+  font-size:  small;
+  }
+table.schedule,
+table.schedule td,
+table.schedule th  {
+  border: 3px; 
+  border-style: ridge;
+  border-collapse: collapse;
+  empty-cells: show;
+  width:  100%;
+  padding:  2px;
+  }
+table.schedule td,
+table.schedule th {
+  border: 2px ; 
+  border-style: ridge;
+  border-collapse: collapse;
+}
+table.schedule  {
+  table-layout: fixed;
+  }
+table.schedule th.one  {
+width:  50%
+}
+table.schedule th.two  {
+width:  20%
+}
+table.schedule th.three  {
+width:  30%
+}
+table.schedule td.name	
+{
+	padding-bottom: 1em;
+}
+table.center {
+width: 70%;
+margin-bottom:    2em;
+margin-left:auto; margin-right:auto;
+margin-bottom:    2em;
+}
+table.dayhour {
+border-style: none;
+}
+table.dayhour td.one {
+width: 45%;
+border-style: none;
+}
+table.dayhour td.two {
+width: 55%;
+border-style: none;
+}
+table.dayhour td.three {
+width: 20%;
+border-style: none;
+}
+table.dayhour td.four {
+width: 80%;
+border-style: none;
+}
+img.logo  {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+    }
+a.reslink  {
+margin-left:  3em;
+margin-right: 3em;
+}

@@ -1,0 +1,20 @@
+/* CSS definition file containing IE7 adds for the navigation bar */
+
+#nav a:link,
+#nav a:visited{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#nav li ul li {
+    border-top: none;
+    border-bottom: thin solid LightSlateGray;
+    border-right: thin solid LightSlateGray;
+    border-left: thin solid LightSlateGray;
+}   
+#nav li.block ul{
+  width:95%;
+  margin-left: 0;
+}
+/*this is here to fixed a rule that ie7 breaks in page_organization.css*/
+#subTitle {
+    top: 90px;
+}
