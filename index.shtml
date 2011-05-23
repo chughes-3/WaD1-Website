@@ -30,7 +30,6 @@ margin: 1em;
 			<li class='block'><a href="sites.html">Taxes <span style="color:red">&#8681;</span></a>
 			 <ul>
 			   <li id="nav-sites"><a href="sites.html">Sites</a></li>
-			   <li id="nav-calendar"><a href="calendar.html">Calendar</a></li>
 			   <li id="nav-hints"><a href="hints.html">Tax Updates</a></li>
 			   <li id="nav-resources"><a href="resources.html">Resources</a></li>
 			   <li id="nav-faqs"><a href="faqs.html">FAQs</a></li>
@@ -63,14 +62,14 @@ margin: 1em;
 		<p><b>Welcome</b> to the AARP Tax-Aide web site for SW Washington State area. AARP Tax-Aide is the nation’s largest free, volunteer-run tax assistance and preparation service available to low and middle-income taxpayers, with special focus on seniors and those eligible for the Earned Income Credit.
      </p>
      <h2>Taxpayer Information</h2>
-		 <p>The <a href="sites.html"><b>Locations</b></a> or <a href="sites.html"><b>Sites</b></a> pages provide information about where our free tax preparation services are provided, and when these sites are open. Our sites are currently closed and will reopen in 2010 for the 2009 tax year. Taxpayers will find information about our free tax preparation services under the Taxes menu. There are 5 sub-headings in this list.  They include help finding a <a href="sites.html">site</a>, <a href="hints.html">current tax issues</a>, and <a href="faqs.html">Frequently asked questions</a>, such as “What do I bring?”
+		 <p>The <a href="sites.html"><b>Locations</b></a> or <a href="sites.html"><b>Sites</b></a> pages provide information about where our free tax preparation services are provided, and when these sites are open.  Our sites will reopen February 1, 2011  for the 2010 tax year. Taxpayers will find information about our free tax preparation services under the Taxes menu. There are 5 sub-headings in this list. They include help finding a <a href="sites.html">site</a>, <a href="hints.html">current tax issues</a>, and <a href="faqs.html">Frequently asked questions</a>, such as “What do I bring?”
 		 </p>
 		 <h2>Introduction to the Program</h2>
 		 <p>		<img class="county" src="Assets/imgs/countiessw1.gif" alt="Taxaide SW Washington" />
 The AARP Tax-Aide program for SW Washington covers Clark and Cowlitz counties encompassing the greater Vancouver area, and Skamania and Wahkiakum counties including the Longview,Kelso and Cathlamet areas. Tax preparation sites are in the greater Vancouver area and the Longview/Kelso area. An outline of the history of the program can be found on the <a href="about_us.html">About us</a> page. Information about how the process by which we complete and submit our clients&#39; tax returns can be found on the <a href="What_we_do.html">Program Operation</a> page.
 		 </p>
 		 <h2>Information for Volunteers</h2>
-		 <p><b>Volunteers</b> can find timely information related to the tasks they perform. This includes <a href="training.html">Training</a>, <a href="sites.html">Site</a> locations and hours, and key <a href="calendar.html">Calendar</a> events. Special password protected pages contain information such as local <a href="protected/org_chart.html">organization charts</a> and volunteer <a href="job_descriptions.html">position descriptions</a> for <a href="protected/volunteers.shtml">Active Volunteers</a> and <a href="protected/coordinators/coordinators.html">Leadership</a> personnel.
+		 <p><b>Volunteers</b> can find timely information related to the tasks they perform. This includes <a href="training.html">Training</a>, and <a href="sites.html">Site</a> locations and hours. Special password protected pages contain information such as local <a href="protected/org_chart.html">organization charts</a> and volunteer <a href="job_descriptions.html">position descriptions</a> for <a href="protected/volunteers.shtml">Active Volunteers</a> and <a href="protected/coordinators/coordinators.html">Leadership</a> personnel.
 		 </p>
 		 <p>Persons interested in <b>volunteering</b> can fill out the <a href="http://www.aarp.org/aarp/articles/Volunteer_with_AARP_Tax_Aide.html">Online Form</a>. Completing this form will automatically cause your information to be sent to our local area so that you can be contacted.
 		 </p>
@@ -79,7 +78,7 @@ The AARP Tax-Aide program for SW Washington covers Clark and Cowlitz counties en
 	</div>
 	<div id="bottomnav">
 	<hr />
-  <p class="pxsmall">[<a href="index.shtml">Home</a>] [<a href="news.html">News</a>] [<a href="training.html">Training</a>] [<a href="sites.html">Sites</a>] [<a href="calendar.html">Calendar</a>] [<a href="contacts.html">Contacts</a>] [<a href="hints.html">Tax Updates</a>] [<a href="faqs.html">FAQs</a>] [<a href="resources.html">Resources</a>] [<a href="protected/volunteers.shtml">Active&nbsp;Volunteers</a>] [<a href="protected/coordinators/coordinators.html">Leadership</a>] [<a href="about_us.html">About&nbsp;Us</a>] [<a href="What_we_do.html">Program Operation</a>]</p>
+  <p class="pxsmall">[<a href="index.shtml">Home</a>] [<a href="news.html">News</a>] [<a href="training.html">Training</a>] [<a href="sites.html">Sites</a>] [<a href="contacts.html">Contacts</a>] [<a href="hints.html">Tax Updates</a>] [<a href="faqs.html">FAQs</a>] [<a href="resources.html">Resources</a>] [<a href="protected/volunteers.shtml">Active&nbsp;Volunteers</a>] [<a href="protected/coordinators/coordinators.html">Leadership</a>] [<a href="about_us.html">About&nbsp;Us</a>] [<a href="What_we_do.html">Program Operation</a>]</p>
 	</div>
   <div id="copyright">
    <p class="pxsmall">The AARP Tax-Aide SW Washington Leadership group provides website content, maintenance is done by Chris Hughes.<br />Copyright&nbsp;2008-2009&nbsp;&nbsp; AARP Tax-Aide SW Washington District 1&nbsp;&nbsp; All rights reserved.&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <?php
 $email = $_REQUEST['email'] ;
-$to = "Volunteer.wa1@comcast.net";
+$to = "voltaxaide@comcast.net";
 
 function check_email_address($email) {
 // First, we check that there's one @ symbol, and that the lengths are right
