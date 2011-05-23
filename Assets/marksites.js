@@ -6,7 +6,7 @@
 	{ name: "Cascade Park Community Library", open: "Opens Feb 1st 2011, <br />Tues, Wed 12pm-4pm", lat:"45.626119", lng:"-122.534895", url: "#Cascade" },
 	{ name: "Camas Public Library", open: "Opens Feb 1st 2011, <br />Tues 3-6pm, Thur 2-5pm", lat:"45.586999", lng:"-122.402158", url: "#Camas" },
 	{ name: "First Baptist Church", open: "Opens Feb 4th 2011, <br />Mon, Fri 11am-3pm", lat:"45.642180", lng:"-122.669134", url: "#FBC" },
-	{ name: "Glenwood Place Senior Living", open: "Opens Feb 2cnd 2011, <br />Mon, Wed 10am-6pm", lat:"45.663202", lng:"-122.589526", url: "#Glenwood" },
+	{ name: "Glenwood Place Senior Living", open: "Closed in 2011, <br />&nbsp;", lat:"45.663202", lng:"-122.589526", url: "#Glenwood" },
 	{ name: "Battle Ground Community Library", open: "Opens Feb 3rd 2011, <br />Thurs 3-7pm, Fri 1-5pm", lat:"45.786495", lng:"-122.550173", url: "#BattleGround" },
 	{ name: "Three Creeks Community Library", open: "Opens Feb 1st 2011, <br />Tues-Wed 1pm-5pm, Thur 3-7pm", lat:"45.721282", lng:"-122.665615", url: "#ThreeCreeks" },
 	{ name: "Lower Columbia CAP", open: "Opens Feb 1st 2011, <br />Tues, Thurs 9am-3pm", lat: "46.140021", lng: "-122.932237", url: "#McCell" },
