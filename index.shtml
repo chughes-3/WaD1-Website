@@ -39,8 +39,12 @@ margin: 1em;
         <ul>
           <li id="nav-news"><a href="news.html">News</a></li>
           <li id="nav-job_desc"><a href="job_descriptions.html">Positions</a></li>
-          <li id="nav-active_vol"><a href="protected/volunteers.shtml">Active Volunteers</a></li>
-          <li id="nav-lcs_eros"><a href="protected/coordinators/coordinators.html">Leadership</a></li>
+	  
+	  
+          <!--/*<li id="nav-active_vol"><a href="protected/volunteers.shtml">Active Volunteers</a></li> */-->
+          <!--<li id="nav-lcs_eros"><a href="protected/coordinators/coordinators.html">Leadership</a></li>-->
+	  
+	  
         </ul>
       </li>
       <li class='block'><a href="about_us.html">About Us <span style="color:red">&dArr;</span></a>
@@ -69,16 +73,16 @@ margin: 1em;
 The AARP Tax-Aide program for SW Washington covers Clark and Cowlitz counties encompassing the greater Vancouver area, and Skamania and Wahkiakum counties including the Longview,Kelso and Cathlamet areas. Tax preparation sites are in the greater Vancouver area and the Longview/Kelso area. An outline of the history of the program can be found on the <a href="about_us.html">About us</a> page. Information about how the process by which we complete and submit our clients&#39; tax returns can be found on the <a href="What_we_do.html">Program Operation</a> page.
 		 </p>
 		 <h2>Information for Volunteers</h2>
-		 <p><b>Volunteers</b> can find timely information related to the tasks they perform. This includes <a href="training.html">Training</a>, and <a href="sites.html">Site</a> locations and hours. Special password protected pages contain information such as local <a href="protected/org_chart.html">organization charts</a> and volunteer <a href="job_descriptions.html">position descriptions</a> for <a href="protected/volunteers.shtml">Active Volunteers</a> and <a href="protected/coordinators/coordinators.html">Leadership</a> personnel.
-		 </p>
-		 <p>Persons interested in <b>volunteering</b> can fill out the <a href="http://www.aarp.org/aarp/articles/Volunteer_with_AARP_Tax_Aide.html">Online Form</a>. Completing this form will automatically cause your information to be sent to our local area so that you can be contacted.
+		 <p><b>Volunteers</b> can find timely information related to the tasks they perform. This includes <a href="training.html">Training</a>, and <a href="sites.html">Site</a> locations and hours. 
+		 
+		 Persons interested in <b>volunteering</b> can fill out the <a href="http://www.aarp.org/aarp/articles/Volunteer_with_AARP_Tax_Aide.html">Online Form</a>. Completing this form will automatically cause your information to be sent to our local area so that you can be contacted.
 		 </p>
 		 	<hr />
 		<p class="Normaltxtcenbldcol">Tax-Aide is Administered by the AARP Foundation in Cooperation with the IRS<br /><a href="http://www.aarp.org/taxaide"><span class="Normaltxtcenbldcol">www.aarp.org/taxaide</span></a></p>
 	</div>
 	<div id="bottomnav">
 	<hr />
-  <p class="pxsmall">[<a href="index.shtml">Home</a>] [<a href="news.html">News</a>] [<a href="training.html">Training</a>] [<a href="sites.html">Sites</a>] [<a href="contacts.html">Contacts</a>] [<a href="hints.html">Tax Updates</a>] [<a href="faqs.html">FAQs</a>] [<a href="resources.html">Resources</a>] [<a href="protected/volunteers.shtml">Active&nbsp;Volunteers</a>] [<a href="protected/coordinators/coordinators.html">Leadership</a>] [<a href="about_us.html">About&nbsp;Us</a>] [<a href="What_we_do.html">Program Operation</a>]</p>
+  <p class="pxsmall">[<a href="index.shtml">Home</a>] [<a href="news.html">News</a>] [<a href="training.html">Training</a>] [<a href="sites.html">Sites</a>] [<a href="contacts.html">Contacts</a>] [<a href="hints.html">Tax Updates</a>] [<a href="faqs.html">FAQs</a>] [<a href="resources.html">Resources</a>]  [<a href="about_us.html">About&nbsp;Us</a>] [<a href="What_we_do.html">Program Operation</a>]</p>
 	</div>
   <div id="copyright">
    <p class="pxsmall">The AARP Tax-Aide SW Washington Leadership group provides website content, maintenance is done by Chris Hughes.<br />Copyright&nbsp;2008-2011&nbsp;&nbsp; AARP Tax-Aide SW Washington District 1&nbsp;&nbsp; All rights reserved.&nbsp;&nbsp;
