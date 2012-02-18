@@ -12,7 +12,7 @@
 	//{ name: "Lower Columbia CAP", open: "Opens Feb 1st 2011, <br />Tues, Thurs 9am-3pm", lat: "46.140021", lng: "-122.932237", url: "#McCell" },
 	//{ name: "Longview Public Library", open: "Opens Feb 5th 2011, <br />Fri-Sat 12:30-4:30pm", lat:"46.139820", lng:"-122.937655", url: "#Longlib" },
 	//{ name: "Fibre Credit Union", open: "Opens Feb 1st 2011, <br />Tues 3:30-6:30pm", lat:"46.128333", lng:"-122.937613", url: "#Fibre" }
-	{ name: "Fisher's Landing Assisted Living", open: "Opens Feb 1st 2012, <br />Wed and Thurs 10:00-2:00pm", lat:"45.606832", lng:"-122.496529", url: "#FishersLanding" }
+	//{ name: "Fisher's Landing Assisted Living", open: "Opens Feb 1st 2012, <br />Wed and Thurs 10:00-2:00pm", lat:"45.606832", lng:"-122.496529", url: "#FishersLanding" }
 
 	];
 
